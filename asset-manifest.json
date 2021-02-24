@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/kuervostore/static/css/main.27e91d83.chunk.css",
+    "main.js": "/kuervostore/static/js/main.16d1804f.chunk.js",
+    "main.js.map": "/kuervostore/static/js/main.16d1804f.chunk.js.map",
+    "runtime-main.js": "/kuervostore/static/js/runtime-main.f9be38e3.js",
+    "runtime-main.js.map": "/kuervostore/static/js/runtime-main.f9be38e3.js.map",
+    "static/css/2.040c2062.chunk.css": "/kuervostore/static/css/2.040c2062.chunk.css",
+    "static/js/2.1917531d.chunk.js": "/kuervostore/static/js/2.1917531d.chunk.js",
+    "static/js/2.1917531d.chunk.js.map": "/kuervostore/static/js/2.1917531d.chunk.js.map",
+    "static/js/3.a38fff23.chunk.js": "/kuervostore/static/js/3.a38fff23.chunk.js",
+    "static/js/3.a38fff23.chunk.js.map": "/kuervostore/static/js/3.a38fff23.chunk.js.map",
+    "index.html": "/kuervostore/index.html",
+    "static/css/2.040c2062.chunk.css.map": "/kuervostore/static/css/2.040c2062.chunk.css.map",
+    "static/css/main.27e91d83.chunk.css.map": "/kuervostore/static/css/main.27e91d83.chunk.css.map",
+    "static/js/2.1917531d.chunk.js.LICENSE.txt": "/kuervostore/static/js/2.1917531d.chunk.js.LICENSE.txt",
+    "static/media/3garrafas.8af0bf2b.png": "/kuervostore/static/media/3garrafas.8af0bf2b.png",
+    "static/media/about.67d5cba9.png": "/kuervostore/static/media/about.67d5cba9.png",
+    "static/media/css.1bff7021.png": "/kuervostore/static/media/css.1bff7021.png",
+    "static/media/docker.d0ba50e8.png": "/kuervostore/static/media/docker.d0ba50e8.png",
+    "static/media/figurasHome01.f40abe12.jpg": "/kuervostore/static/media/figurasHome01.f40abe12.jpg",
+    "static/media/index.css": "/kuervostore/static/media/whatsapp.20ab485e.png",
+    "static/media/html.e2ac1947.png": "/kuervostore/static/media/html.e2ac1947.png",
+    "static/media/javascript.bed33060.png": "/kuervostore/static/media/javascript.bed33060.png",
+    "static/media/joseportugal.acff1272.png": "/kuervostore/static/media/joseportugal.acff1272.png",
+    "static/media/lightsail.e0102769.png": "/kuervostore/static/media/lightsail.e0102769.png",
+    "static/media/logo.71b6c741.png": "/kuervostore/static/media/logo.71b6c741.png",
+    "static/media/loreim.b2936418.png": "/kuervostore/static/media/loreim.b2936418.png",
+    "static/media/mongodb.8d5317f2.png": "/kuervostore/static/media/mongodb.8d5317f2.png",
+    "static/media/nodejs.282c17bf.png": "/kuervostore/static/media/nodejs.282c17bf.png",
+    "static/media/reactjs.afaf514c.png": "/kuervostore/static/media/reactjs.afaf514c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9be38e3.js",
+    "static/css/2.040c2062.chunk.css",
+    "static/js/2.1917531d.chunk.js",
+    "static/css/main.27e91d83.chunk.css",
+    "static/js/main.16d1804f.chunk.js"
+  ]
+}
