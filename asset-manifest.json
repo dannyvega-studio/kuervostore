@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/kuervostore/static/css/main.7cfb5d07.chunk.css",
-    "main.js": "/kuervostore/static/js/main.6e2cb47c.chunk.js",
-    "main.js.map": "/kuervostore/static/js/main.6e2cb47c.chunk.js.map",
+    "main.css": "/kuervostore/static/css/main.a3c6b81c.chunk.css",
+    "main.js": "/kuervostore/static/js/main.45ea9a67.chunk.js",
+    "main.js.map": "/kuervostore/static/js/main.45ea9a67.chunk.js.map",
     "runtime-main.js": "/kuervostore/static/js/runtime-main.f9be38e3.js",
     "runtime-main.js.map": "/kuervostore/static/js/runtime-main.f9be38e3.js.map",
     "static/css/2.040c2062.chunk.css": "/kuervostore/static/css/2.040c2062.chunk.css",
-    "static/js/2.1917531d.chunk.js": "/kuervostore/static/js/2.1917531d.chunk.js",
-    "static/js/2.1917531d.chunk.js.map": "/kuervostore/static/js/2.1917531d.chunk.js.map",
+    "static/js/2.92ffd71d.chunk.js": "/kuervostore/static/js/2.92ffd71d.chunk.js",
+    "static/js/2.92ffd71d.chunk.js.map": "/kuervostore/static/js/2.92ffd71d.chunk.js.map",
     "static/js/3.a38fff23.chunk.js": "/kuervostore/static/js/3.a38fff23.chunk.js",
     "static/js/3.a38fff23.chunk.js.map": "/kuervostore/static/js/3.a38fff23.chunk.js.map",
     "index.html": "/kuervostore/index.html",
     "static/css/2.040c2062.chunk.css.map": "/kuervostore/static/css/2.040c2062.chunk.css.map",
-    "static/css/main.7cfb5d07.chunk.css.map": "/kuervostore/static/css/main.7cfb5d07.chunk.css.map",
-    "static/js/2.1917531d.chunk.js.LICENSE.txt": "/kuervostore/static/js/2.1917531d.chunk.js.LICENSE.txt",
+    "static/css/main.a3c6b81c.chunk.css.map": "/kuervostore/static/css/main.a3c6b81c.chunk.css.map",
+    "static/js/2.92ffd71d.chunk.js.LICENSE.txt": "/kuervostore/static/js/2.92ffd71d.chunk.js.LICENSE.txt",
     "static/media/3garrafas.8af0bf2b.png": "/kuervostore/static/media/3garrafas.8af0bf2b.png",
     "static/media/about.67d5cba9.png": "/kuervostore/static/media/about.67d5cba9.png",
     "static/media/css.1bff7021.png": "/kuervostore/static/media/css.1bff7021.png",
@@ -23,6 +23,7 @@
     "static/media/html.e2ac1947.png": "/kuervostore/static/media/html.e2ac1947.png",
     "static/media/javascript.bed33060.png": "/kuervostore/static/media/javascript.bed33060.png",
     "static/media/joseportugal.acff1272.png": "/kuervostore/static/media/joseportugal.acff1272.png",
+    "static/media/kuervo-footer.7fae6cfc.png": "/kuervostore/static/media/kuervo-footer.7fae6cfc.png",
     "static/media/lightsail.e0102769.png": "/kuervostore/static/media/lightsail.e0102769.png",
     "static/media/logo.71b6c741.png": "/kuervostore/static/media/logo.71b6c741.png",
     "static/media/loreim.b2936418.png": "/kuervostore/static/media/loreim.b2936418.png",
@@ -33,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.f9be38e3.js",
     "static/css/2.040c2062.chunk.css",
-    "static/js/2.1917531d.chunk.js",
-    "static/css/main.7cfb5d07.chunk.css",
-    "static/js/main.6e2cb47c.chunk.js"
+    "static/js/2.92ffd71d.chunk.js",
+    "static/css/main.a3c6b81c.chunk.css",
+    "static/js/main.45ea9a67.chunk.js"
   ]
 }
