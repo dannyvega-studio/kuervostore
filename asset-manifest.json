@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/kuervostore/static/css/main.a3c6b81c.chunk.css",
-    "main.js": "/kuervostore/static/js/main.588e162f.chunk.js",
-    "main.js.map": "/kuervostore/static/js/main.588e162f.chunk.js.map",
-    "runtime-main.js": "/kuervostore/static/js/runtime-main.6b196042.js",
-    "runtime-main.js.map": "/kuervostore/static/js/runtime-main.6b196042.js.map",
+    "main.css": "/kuervostore/static/css/main.7b14d755.chunk.css",
+    "main.js": "/kuervostore/static/js/main.6e15af3d.chunk.js",
+    "main.js.map": "/kuervostore/static/js/main.6e15af3d.chunk.js.map",
+    "runtime-main.js": "/kuervostore/static/js/runtime-main.54873cdc.js",
+    "runtime-main.js.map": "/kuervostore/static/js/runtime-main.54873cdc.js.map",
     "static/css/2.040c2062.chunk.css": "/kuervostore/static/css/2.040c2062.chunk.css",
-    "static/js/2.0b49310a.chunk.js": "/kuervostore/static/js/2.0b49310a.chunk.js",
-    "static/js/2.0b49310a.chunk.js.map": "/kuervostore/static/js/2.0b49310a.chunk.js.map",
-    "static/js/3.88e7b469.chunk.js": "/kuervostore/static/js/3.88e7b469.chunk.js",
-    "static/js/3.88e7b469.chunk.js.map": "/kuervostore/static/js/3.88e7b469.chunk.js.map",
+    "static/js/2.459e6bd1.chunk.js": "/kuervostore/static/js/2.459e6bd1.chunk.js",
+    "static/js/2.459e6bd1.chunk.js.map": "/kuervostore/static/js/2.459e6bd1.chunk.js.map",
+    "static/js/3.ca90c239.chunk.js": "/kuervostore/static/js/3.ca90c239.chunk.js",
+    "static/js/3.ca90c239.chunk.js.map": "/kuervostore/static/js/3.ca90c239.chunk.js.map",
     "index.html": "/kuervostore/index.html",
     "static/css/2.040c2062.chunk.css.map": "/kuervostore/static/css/2.040c2062.chunk.css.map",
-    "static/css/main.a3c6b81c.chunk.css.map": "/kuervostore/static/css/main.a3c6b81c.chunk.css.map",
-    "static/js/2.0b49310a.chunk.js.LICENSE.txt": "/kuervostore/static/js/2.0b49310a.chunk.js.LICENSE.txt",
+    "static/css/main.7b14d755.chunk.css.map": "/kuervostore/static/css/main.7b14d755.chunk.css.map",
+    "static/js/2.459e6bd1.chunk.js.LICENSE.txt": "/kuervostore/static/js/2.459e6bd1.chunk.js.LICENSE.txt",
     "static/media/3garrafas.8af0bf2b.png": "/kuervostore/static/media/3garrafas.8af0bf2b.png",
     "static/media/about.67d5cba9.png": "/kuervostore/static/media/about.67d5cba9.png",
     "static/media/css.1bff7021.png": "/kuervostore/static/media/css.1bff7021.png",
@@ -29,13 +29,17 @@
     "static/media/loreim.b2936418.png": "/kuervostore/static/media/loreim.b2936418.png",
     "static/media/mongodb.8d5317f2.png": "/kuervostore/static/media/mongodb.8d5317f2.png",
     "static/media/nodejs.282c17bf.png": "/kuervostore/static/media/nodejs.282c17bf.png",
-    "static/media/reactjs.afaf514c.png": "/kuervostore/static/media/reactjs.afaf514c.png"
+    "static/media/reactjs.afaf514c.png": "/kuervostore/static/media/reactjs.afaf514c.png",
+    "static/media/tcgHome01.3ae510ef.png": "/kuervostore/static/media/tcgHome01.3ae510ef.png",
+    "static/media/tcgmagic.1c98489b.jpg": "/kuervostore/static/media/tcgmagic.1c98489b.jpg",
+    "static/media/tcgpokemon.44d6b2d9.jpg": "/kuervostore/static/media/tcgpokemon.44d6b2d9.jpg",
+    "static/media/tcgyugioh.a226c137.jpg": "/kuervostore/static/media/tcgyugioh.a226c137.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b196042.js",
+    "static/js/runtime-main.54873cdc.js",
     "static/css/2.040c2062.chunk.css",
-    "static/js/2.0b49310a.chunk.js",
-    "static/css/main.a3c6b81c.chunk.css",
-    "static/js/main.588e162f.chunk.js"
+    "static/js/2.459e6bd1.chunk.js",
+    "static/css/main.7b14d755.chunk.css",
+    "static/js/main.6e15af3d.chunk.js"
   ]
 }
