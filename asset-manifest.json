@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kuervostore/static/css/main.d93bd7ef.chunk.css",
-    "main.js": "/kuervostore/static/js/main.8691730d.chunk.js",
-    "main.js.map": "/kuervostore/static/js/main.8691730d.chunk.js.map",
+    "main.js": "/kuervostore/static/js/main.eb5e196b.chunk.js",
+    "main.js.map": "/kuervostore/static/js/main.eb5e196b.chunk.js.map",
     "runtime-main.js": "/kuervostore/static/js/runtime-main.54743bd4.js",
     "runtime-main.js.map": "/kuervostore/static/js/runtime-main.54743bd4.js.map",
     "static/css/2.f22c4bfc.chunk.css": "/kuervostore/static/css/2.f22c4bfc.chunk.css",
@@ -35,6 +35,6 @@
     "static/css/2.f22c4bfc.chunk.css",
     "static/js/2.a09a3ac8.chunk.js",
     "static/css/main.d93bd7ef.chunk.css",
-    "static/js/main.8691730d.chunk.js"
+    "static/js/main.eb5e196b.chunk.js"
   ]
 }
