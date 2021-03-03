@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/kuervostore/static/css/main.0123e9b4.chunk.css",
-    "main.js": "/kuervostore/static/js/main.20a90be5.chunk.js",
-    "main.js.map": "/kuervostore/static/js/main.20a90be5.chunk.js.map",
+    "main.css": "/kuervostore/static/css/main.5cfd7502.chunk.css",
+    "main.js": "/kuervostore/static/js/main.dce64e6c.chunk.js",
+    "main.js.map": "/kuervostore/static/js/main.dce64e6c.chunk.js.map",
     "runtime-main.js": "/kuervostore/static/js/runtime-main.54743bd4.js",
     "runtime-main.js.map": "/kuervostore/static/js/runtime-main.54743bd4.js.map",
     "static/css/2.f22c4bfc.chunk.css": "/kuervostore/static/css/2.f22c4bfc.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.36c60adc.chunk.js.map": "/kuervostore/static/js/3.36c60adc.chunk.js.map",
     "index.html": "/kuervostore/index.html",
     "static/css/2.f22c4bfc.chunk.css.map": "/kuervostore/static/css/2.f22c4bfc.chunk.css.map",
-    "static/css/main.0123e9b4.chunk.css.map": "/kuervostore/static/css/main.0123e9b4.chunk.css.map",
+    "static/css/main.5cfd7502.chunk.css.map": "/kuervostore/static/css/main.5cfd7502.chunk.css.map",
     "static/js/2.84db8e0d.chunk.js.LICENSE.txt": "/kuervostore/static/js/2.84db8e0d.chunk.js.LICENSE.txt",
     "static/media/dhl.3f8ca6d9.png": "/kuervostore/static/media/dhl.3f8ca6d9.png",
     "static/media/index.css": "/kuervostore/static/media/stock01.3f9ada82.jpg",
@@ -33,7 +33,7 @@
     "static/js/runtime-main.54743bd4.js",
     "static/css/2.f22c4bfc.chunk.css",
     "static/js/2.84db8e0d.chunk.js",
-    "static/css/main.0123e9b4.chunk.css",
-    "static/js/main.20a90be5.chunk.js"
+    "static/css/main.5cfd7502.chunk.css",
+    "static/js/main.dce64e6c.chunk.js"
   ]
 }
