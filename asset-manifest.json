@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/kuervostore/static/css/main.d93bd7ef.chunk.css",
-    "main.js": "/kuervostore/static/js/main.770cebec.chunk.js",
-    "main.js.map": "/kuervostore/static/js/main.770cebec.chunk.js.map",
+    "main.js": "/kuervostore/static/js/main.dd33cef8.chunk.js",
+    "main.js.map": "/kuervostore/static/js/main.dd33cef8.chunk.js.map",
     "runtime-main.js": "/kuervostore/static/js/runtime-main.54743bd4.js",
     "runtime-main.js.map": "/kuervostore/static/js/runtime-main.54743bd4.js.map",
     "static/css/2.f22c4bfc.chunk.css": "/kuervostore/static/css/2.f22c4bfc.chunk.css",
-    "static/js/2.a09a3ac8.chunk.js": "/kuervostore/static/js/2.a09a3ac8.chunk.js",
-    "static/js/2.a09a3ac8.chunk.js.map": "/kuervostore/static/js/2.a09a3ac8.chunk.js.map",
+    "static/js/2.a5d04706.chunk.js": "/kuervostore/static/js/2.a5d04706.chunk.js",
+    "static/js/2.a5d04706.chunk.js.map": "/kuervostore/static/js/2.a5d04706.chunk.js.map",
     "static/js/3.36c60adc.chunk.js": "/kuervostore/static/js/3.36c60adc.chunk.js",
     "static/js/3.36c60adc.chunk.js.map": "/kuervostore/static/js/3.36c60adc.chunk.js.map",
     "index.html": "/kuervostore/index.html",
     "static/css/2.f22c4bfc.chunk.css.map": "/kuervostore/static/css/2.f22c4bfc.chunk.css.map",
     "static/css/main.d93bd7ef.chunk.css.map": "/kuervostore/static/css/main.d93bd7ef.chunk.css.map",
-    "static/js/2.a09a3ac8.chunk.js.LICENSE.txt": "/kuervostore/static/js/2.a09a3ac8.chunk.js.LICENSE.txt",
+    "static/js/2.a5d04706.chunk.js.LICENSE.txt": "/kuervostore/static/js/2.a5d04706.chunk.js.LICENSE.txt",
     "static/media/cheems-construccion.eadcdc2e.png": "/kuervostore/static/media/cheems-construccion.eadcdc2e.png",
     "static/media/dhl.3f8ca6d9.png": "/kuervostore/static/media/dhl.3f8ca6d9.png",
     "static/media/index.css": "/kuervostore/static/media/stock01.3f9ada82.jpg",
     "static/media/home-carousel-1.87b3729f.jpg": "/kuervostore/static/media/home-carousel-1.87b3729f.jpg",
     "static/media/home-carousel-2.1d771cd8.jpg": "/kuervostore/static/media/home-carousel-2.1d771cd8.jpg",
     "static/media/home-carousel-3.2fe318b0.jpg": "/kuervostore/static/media/home-carousel-3.2fe318b0.jpg",
-    "static/media/kuervo-footer.7fae6cfc.png": "/kuervostore/static/media/kuervo-footer.7fae6cfc.png",
-    "static/media/logo.71b6c741.png": "/kuervostore/static/media/logo.71b6c741.png",
+    "static/media/kuervo-logo.5edd6f17.png": "/kuervostore/static/media/kuervo-logo.5edd6f17.png",
+    "static/media/logo.ec00bf80.png": "/kuervostore/static/media/logo.ec00bf80.png",
     "static/media/tcgHome01.3ae510ef.png": "/kuervostore/static/media/tcgHome01.3ae510ef.png",
     "static/media/tcgforce.60baeafb.jpg": "/kuervostore/static/media/tcgforce.60baeafb.jpg",
     "static/media/tcgmagic.1c98489b.jpg": "/kuervostore/static/media/tcgmagic.1c98489b.jpg",
@@ -33,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.54743bd4.js",
     "static/css/2.f22c4bfc.chunk.css",
-    "static/js/2.a09a3ac8.chunk.js",
+    "static/js/2.a5d04706.chunk.js",
     "static/css/main.d93bd7ef.chunk.css",
-    "static/js/main.770cebec.chunk.js"
+    "static/js/main.dd33cef8.chunk.js"
   ]
 }
